@@ -1,0 +1,7 @@
+D:\TestSpace\Code\LeetCode\LeetCode\bin\Debug\LeetCode.exe.config
+D:\TestSpace\Code\LeetCode\LeetCode\bin\Debug\LeetCode.exe
+D:\TestSpace\Code\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
+D:\TestSpace\Code\LeetCode\LeetCode\obj\Debug\LeetCode.csprojAssemblyReference.cache
+D:\TestSpace\Code\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+D:\TestSpace\Code\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+D:\TestSpace\Code\LeetCode\LeetCode\obj\Debug\LeetCode.pdb

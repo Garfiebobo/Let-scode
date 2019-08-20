@@ -10,7 +10,14 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
+            ExcelNumberTest();
+        }
 
+        static void ExcelNumberTest()
+        {
+            ExcelNumber excel = new ExcelNumber();
+            Console.WriteLine(  excel.TitleToNumber("Z"));
+            Console.ReadKey();
         }
     }
 }
